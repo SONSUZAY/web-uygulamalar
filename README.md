@@ -1,2 +1,2 @@
-# web-ara-lar
+# web-uygulamalar
 web uygulamalar ve araçlar
